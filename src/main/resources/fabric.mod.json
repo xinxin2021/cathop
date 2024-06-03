@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "cathop",
+  "version": "${version}",
+  "name": "猫跃城建",
+  "description": "专为猫跃城建制作的模组 by xingteh",
+  "authors": ["xingteh"],
+  "contact": {
+    "repo": "https://github.com/xinxin2021/cathop"
+  },
+  "license": "All rights reserved",
+  "icon": "assets/cathop/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "top.gteh.cathop.Cathop"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}",
+    "mtr": ">=${minecraft_version}-3.2.1"
+  }
+}

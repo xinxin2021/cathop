@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "cathop:ccr_logo",
+    "cathop:cotai_logo",
+    "cathop:cr_logo",
+    "cathop:first_bus_logo",
+    "cathop:hunan_buses_logo",
+    "cathop:lr_logo",
+    "cathop:mxrt_logo",
+    "cathop:qxmrt_logo",
+    "cathop:sm_dragon_logo",
+    "cathop:sm_logo",
+    "cathop:vcr_logo"
+  ]
+}
